@@ -2,7 +2,7 @@
 # Sistema bancário simples - Formação Programador
 
 
-O objetivo do porojeto é treinar na prática os conhecimentos  de python adquiridos ao longo da Formação Programador durante 3° módulo, utilizando estruturas de repetição e estruturas de dados para simular operações bancarias efetuadas no dia a dia.
+O objetivo do projeto é treinar na prática os conhecimentos  de python adquiridos ao longo da Formação Programador durante 3° módulo, utilizando estruturas de repetição e estruturas de dados para simular operações bancarias efetuadas no dia a dia.
 ## Funcionalidades
 
 Para isso tomamos como base os seguintes requisitos/operações:
