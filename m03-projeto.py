@@ -38,7 +38,7 @@ def remover_conta():
         print('\nOperação efetuada com sucesso')
         break
     if not conta_encontrada:
-      print("\n XX Está conta não exite. Tente novamente. XX")
+      print("\n XX Está conta não existe. Tente novamente. XX")
 
 def listar_contas():
   if len(contas) == 0:
